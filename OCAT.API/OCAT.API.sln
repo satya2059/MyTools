@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCAT.API", "OCAT.API\OCAT.API.csproj", "{272E04C3-3070-45E6-908F-A8A81AB72FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCAT.DBLayer", "OCAT.DBLayer\OCAT.DBLayer.csproj", "{3066BAF5-F34E-466A-8C47-6485458EDB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272E04C3-3070-45E6-908F-A8A81AB72FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272E04C3-3070-45E6-908F-A8A81AB72FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272E04C3-3070-45E6-908F-A8A81AB72FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272E04C3-3070-45E6-908F-A8A81AB72FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3066BAF5-F34E-466A-8C47-6485458EDB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3066BAF5-F34E-466A-8C47-6485458EDB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3066BAF5-F34E-466A-8C47-6485458EDB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3066BAF5-F34E-466A-8C47-6485458EDB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AB30FF8-EC01-4C17-A4DA-0F1130599D5E}
+	EndGlobalSection
+EndGlobal

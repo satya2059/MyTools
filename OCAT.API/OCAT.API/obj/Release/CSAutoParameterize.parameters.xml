@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="OCAT-Web.config Connection String" description="OCAT Connection String used in web.config by the application to access the database." defaultValue="Server=cs-sandb0x.csxel4s1ztj7.us-west-1.rds.amazonaws.com; port=5432; Database=test; Username=master; Password=Gabriela_Melika; Integrated Security=False" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Satya\ Gunnam\\Desktop\\WorkSpace\\OCAT\.API\\OCAT\.API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OCAT']/@connectionString" />
+  </parameter>
+</parameters>
